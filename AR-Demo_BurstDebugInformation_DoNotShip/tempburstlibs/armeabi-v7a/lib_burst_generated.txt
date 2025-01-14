@@ -9,6 +9,7 @@ Library: C:\Users\W0472677\UnityProjects\EmergingTechnologies\AR-Demo\AR-Demo\Te
 --target-framework=NetFramework
 --generate-link-xml=Temp\burst.link.xml
 --temp-folder=C:\Users\W0472677\UnityProjects\EmergingTechnologies\AR-Demo\AR-Demo\Temp\Burst
+--debug=LineOnly
 --key-folder=C:/Program Files/Unity/Hub/Editor/2022.3.39f1/Editor/Data/PlaybackEngines/AndroidPlayer
 --decode-folder=C:\Users\W0472677\UnityProjects\EmergingTechnologies\AR-Demo\AR-Demo\Library\Burst
 --output=C:\Users\W0472677\UnityProjects\EmergingTechnologies\AR-Demo\AR-Demo\Temp\BurstOutput\tempburstlibs\armeabi-v7a\lib_burst_generated
@@ -103,6 +104,7 @@ Library: C:\Users\W0472677\UnityProjects\EmergingTechnologies\AR-Demo\AR-Demo\Te
 --float-mode=Fast
 --generate-link-xml=Temp\burst.link.xml
 --temp-folder=C:\Users\W0472677\UnityProjects\EmergingTechnologies\AR-Demo\AR-Demo\Temp\Burst
+--debug=LineOnly
 --key-folder=C:/Program Files/Unity/Hub/Editor/2022.3.39f1/Editor/Data/PlaybackEngines/AndroidPlayer
 --decode-folder=C:\Users\W0472677\UnityProjects\EmergingTechnologies\AR-Demo\AR-Demo\Library\Burst
 --output=C:\Users\W0472677\UnityProjects\EmergingTechnologies\AR-Demo\AR-Demo\Temp\BurstOutput\tempburstlibs\armeabi-v7a\lib_burst_generated
